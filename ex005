@@ -1,0 +1,5 @@
+n1 = int(input('digite um numero ? '))
+s1 = n1 + 1
+s2 = n1 - 1
+print ('Opa aqui estão o sucessor: {} \nE o antecessor:{}'.format(s1, s2))
+print ('por enquanto ainda ta facil uff !')

@@ -1,0 +1,2 @@
+n1 = int(input('me infrome o numero e te darei o dobro o triplo e a raiz quadrada do mesmo !'))
+print ('o dobro do numero informado é : {},\ne o triplo é :{} \nenquanto a raiz quadrada : {}'.format(n1*2, n1*3, n1**0.5))
