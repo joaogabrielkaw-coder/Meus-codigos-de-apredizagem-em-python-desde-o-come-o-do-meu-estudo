@@ -1,0 +1,8 @@
+pergunta = ("você nasceu no  dia ")
+dia = input ('Qual é o dia de seu nascimento?')
+mensagen = ('de')
+mes = input ('Qual é o mes de seu nascimento?')
+mensagen2 = ('de')
+ano =  input ('Qual é o ano de seu nascimento?')
+mensagem3 = ('correto?')
+print (pergunta, dia, mensagen, mes, mensagen2, ano, mensagem3)
