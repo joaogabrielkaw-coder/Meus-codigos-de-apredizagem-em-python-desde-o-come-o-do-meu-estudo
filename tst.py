@@ -1,0 +1,5 @@
+mensagem =input ('meu nome ? ')
+men2 = input('quem eu amo muito ')
+men3 = input( ' muito mesmo ?')
+print('parabens você é muito feliz por amar {}.\nEssa pessoa maravilhosa mas você é feliz :{} \nQual nome do sortudo : {} \nAé  sou eu mesmo :)'.format(men2, men3,mensagem))
+print('--------------------------------:>---------------')
