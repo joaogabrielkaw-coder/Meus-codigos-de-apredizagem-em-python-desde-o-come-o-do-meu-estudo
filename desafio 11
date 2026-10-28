@@ -1,0 +1,6 @@
+larg = int(input('qual é a largura da parede ?'))
+Alt = int(input('qual é a altura da parede ?'))
+s1 = larg * Alt 
+s2 = s1 * 2
+rendimento = s2 / 10
+print('você usara {} litros de tinta para pintar {} a area total da sua parede'.format(rendimento, s1))

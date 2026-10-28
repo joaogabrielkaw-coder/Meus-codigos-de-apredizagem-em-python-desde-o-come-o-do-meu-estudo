@@ -1,0 +1,5 @@
+n1 = int(input('Qual seu valor ?'))
+s1 = n1*2
+s2 = n1*3
+s3 = n1**(1/2)
+print('O dobro do seu numero é :{}\nO triplo é :{} \nA raiz quadrada é :{}'.format(s1, s2, s3))

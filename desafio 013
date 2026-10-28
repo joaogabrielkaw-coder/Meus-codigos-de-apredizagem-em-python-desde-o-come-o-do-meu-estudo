@@ -1,0 +1,3 @@
+salario = int(input("informe o salario :"))
+r = salario * 1.15
+print('o salario de {} com aumento de 15% ficou um total de {}'.format (salario, r))

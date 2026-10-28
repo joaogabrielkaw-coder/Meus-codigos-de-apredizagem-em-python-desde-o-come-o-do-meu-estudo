@@ -1,0 +1,8 @@
+preco = int(input('O valor do item :'))
+desco =  int(input('Qual e o desconto:'))
+s1 = preco * desco
+s2 = s1 / 100
+s3 = s2-preco 
+print ('O valor total com desconto de % {} é {} parabens você economizou {}'.format(desco, s3, s2))
+print ('obrigado foi um pouco cansativo mesmo mais de 5 exercicios em um dia ;)')
+

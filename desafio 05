@@ -1,0 +1,5 @@
+n1 = int(input('seu numero?'))
+s1 = n1+1
+s2 = n1-1
+print('o succesor do seu numeo é :{}\no antecessor é :{}'.format(s1, s2))
+      

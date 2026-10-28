@@ -1,0 +1,4 @@
+medida = int(input('Quantos metros ? '))
+s = medida * 100
+s2 = medida * 1000
+print ('A medida digitada em centimetros : {}\nA medida solicitada em milimetros: {}'.format(s, s2))

@@ -1,0 +1,5 @@
+nota1 = int(input('nota de certa materia primeiro semestre:'))
+nota2 = int(input('A segunda nota para soma da média :'))
+s1 = nota1 + nota2
+s2 = s1 / 2
+print ('a soma da média da materia é {}'.format(s2))

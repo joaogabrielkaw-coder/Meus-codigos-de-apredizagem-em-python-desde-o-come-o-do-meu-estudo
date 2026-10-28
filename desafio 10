@@ -1,0 +1,3 @@
+R = int(input('Qual saldo em reais ? '))
+s = R / 5.38
+print ('você pode comprar exatamente {} dolares com seu saldo atual em R${}'.format(s, R))
