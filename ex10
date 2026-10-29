@@ -1,0 +1,4 @@
+r = float(input('Tem quanto de dinheiro na conta ? '))
+s = r/5.38
+print('voce pode comprar {:.f2} dolares com {:.f2} reais'.format(s, r))
+print('pois é né brasil ')

@@ -1,0 +1,8 @@
+metros = float(input('Me de um valor em metros para conversão : '))
+km = metros/1000
+hn = metros/100
+dam = metros/10
+dm = metros*10 
+cm = metros*100
+mm = metros*1000
+print('A medida de M {}\n{}Km \n{}Hm \n{}Dam \nDm{} \n{}Cm \n{}Mm'.format(metros, km, hn, dam, dm, cm, mm))
